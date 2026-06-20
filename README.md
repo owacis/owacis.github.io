@@ -2,7 +2,7 @@
 **Senior Software & Machine Learning Engineer**  
 Event‑Driven Systems • Distributed Architectures • Real‑Time ML Inference • Signal Processing  
 [LinkedIn](https://linkedin.com/in/owain-cisuelo)
-➡️ **[Download my CV (PDF)](./OC_CV_JULY_2026.pdf)**
+➡️ **[Download my CV (PDF)](./CV.pdf)**
 
 ---
 
