@@ -68,6 +68,4 @@ Developed deep‑learning and DSP pipelines for physiological monitoring in wear
 
 ---
 
-
-**Email:** cisuelo@outlook.com  
 **LinkedIn:** linkedin.com/in/owain-cisuelo
