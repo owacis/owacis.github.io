@@ -1,7 +1,7 @@
 # Owain Cisuelo  
 **Senior Software & Machine Learning Engineer**  
 Event‑Driven Systems • Distributed Architectures • Real‑Time ML Inference • Signal Processing  
-[LinkedIn](https://linkedin.com/in/owain-cisuelo) • [Email](mailto:cisuelo@outlook.com)
+[LinkedIn](https://linkedin.com/in/owain-cisuelo)
 
 ---
 
@@ -68,4 +68,3 @@ Developed deep‑learning and DSP pipelines for physiological monitoring in wear
 
 ---
 
-**LinkedIn:** linkedin.com/in/owain-cisuelo
